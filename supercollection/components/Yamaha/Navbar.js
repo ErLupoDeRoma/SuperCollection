@@ -1,7 +1,7 @@
 export default function Navbar() {
   return (
     <>
-      <div className="flex justify-center border border-white bg-white fixed w-full">
+      <div className="flex justify-center border border-white bg-white fixed w-full z-100">
         <div className="flex justify-around gap-2">
           <div>
             <img src="/images/Yamaha_logo.png" alt="" className="w-30 mt-2" />
