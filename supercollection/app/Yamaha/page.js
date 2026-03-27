@@ -5,6 +5,7 @@ import Card2 from "@/components/Yamaha/Card2";
 import Card3 from "@/components/Yamaha/Card3";
 import Card4 from "@/components/Yamaha/Card4";
 import Card5 from "@/components/Yamaha/Card5";
+import Card6 from "@/components/Yamaha/Card6";
 
 
 export default function Home() {
@@ -38,10 +39,12 @@ export default function Home() {
  
 
 <div>
-  <Card4/>
+  <Card4 titolo="PRENOTA UN TEST RIDE GRATUITO" bottone="PRENOTA ORA →"/>
 </div>
 
 <Card5/>
+
+<Card6/>
 
 
     </>

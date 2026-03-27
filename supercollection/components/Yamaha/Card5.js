@@ -8,7 +8,7 @@ export default function Card5() {
           <div className="relative overflow-hidden">
             <img 
               src="/images/Card2:1.webp" 
-              className="w-full h-full object-cover"
+              className="w-full h-full object-cover brightness-80"
             />
             <div className="absolute bottom-8 left-8 text-white">
               <h2 className="text-3xl font-bold">NUOVA STAGIONE,<br />NUOVI ACCESSORI</h2>
@@ -18,7 +18,7 @@ export default function Card5() {
           <div className="relative overflow-hidden">
             <img 
               src="/images/Card2:2.webp" 
-              className="w-full h-full object-cover"
+              className="w-full h-full object-cover brightness-80"
             />
             <div className="absolute bottom-8 left-8 text-white">
               <p className="text-sm tracking-widest">CASCO AIROH LIMITED EDITION</p>
