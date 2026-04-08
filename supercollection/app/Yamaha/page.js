@@ -6,6 +6,8 @@ import Card3 from "@/components/Yamaha/Card3";
 import Card4 from "@/components/Yamaha/Card4";
 import Card5 from "@/components/Yamaha/Card5";
 import Card6 from "@/components/Yamaha/Card6";
+import Card7 from "@/components/Yamaha/Card7";
+import Mappa from "@/components/Yamaha/mappa";
 
 
 export default function Home() {
@@ -46,7 +48,9 @@ export default function Home() {
 
 <Card6/>
 
+<Card7/>
 
+<Mappa/>
     </>
   );
 }

@@ -1,10 +1,10 @@
 export default function Card2(C2){
     return(
        <>
-       <div className={"aspect-16/8 bg-no-repeat bg-cover flex items-end w-2/5 mt-10" + C2.immagine}>
-       <div>
-                   <h4 className="text-white font-extrabold text-xl ml-5 mb-1">{C2.titolo}</h4>
-                   <h1 className="text-white font-extrabold text-4xl ml-5 mb-5">{C2.testo}</h1>
+       <div className={"aspect-16/8 bg-no-repeat bg-cover flex items-end w-2/5 mt-10 object-cover brightness-80" + C2.immagine}>
+       <div className="text-white font-extrabold ml-5">
+                   <h4 className=" mb-1 lg:text-xl  xs:text-xs">{C2.titolo}</h4>
+                   <h1 className=" mb-5 lg:text-4xl xs:text-lg">{C2.testo}</h1>
                     </div>
                  </div>   
        </>

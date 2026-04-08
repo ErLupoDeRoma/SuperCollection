@@ -1,4 +1,4 @@
-export default function ExperienceYamaha() {
+export default function Card6() {
   return (
     <div className="bg-white py-12 px-4 mx-auto">
       <div className="max-w-7xl mx-auto">
