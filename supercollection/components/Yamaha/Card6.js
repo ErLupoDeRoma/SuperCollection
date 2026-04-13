@@ -14,7 +14,7 @@ export default function Card6() {
           {/* Card 1 */}
           <div className="relative overflow-hidden rounded-lg shadow-lg">
             <img 
-              src="/images/Girl FP.webp"
+              src="/images/Yamaha/Girl FP.webp"
               className="w-full h-full object-cover brightness-80"
             />
             <div className="absolute bottom-8 left-8 text-white">
@@ -27,7 +27,7 @@ export default function Card6() {
           {/* Card 2 */}
           <div className="relative overflow-hidden rounded-lg shadow-lg ">
             <img 
-              src="/images/Parter Tecnici.webp"
+              src="/images/Yamaha/Parter Tecnici.webp"
               className="w-full h-full object-cover brightness-80"
             />
             <div className="absolute bottom-8 left-8 text-white">
@@ -40,7 +40,7 @@ export default function Card6() {
           {/* Card 3 */}
           <div className="relative overflow-hidden rounded-lg shadow-lg">
             <img 
-              src="/images/Noleggia Moto.webp"
+              src="/images/Yamaha/Noleggia Moto.webp"
               className="w-full h-full object-cover brightness-80"
             />
             <div className="absolute bottom-8 left-8 text-white">

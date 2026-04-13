@@ -1,7 +1,7 @@
 export default function Card1() {
   return (
     <>
-      <div className="bg-[url(/images/Card2.webp)] aspect-16/8 bg-no-repeat bg-cover flex items-end">
+      <div className="bg-[url(/images/Yamaha/Card2.webp)] aspect-16/8 bg-no-repeat bg-cover flex items-end">
         <div className="lg:mb-10 lg:ml-20 ml-5 flex-col gap-3 flex">
             <h5 className="font-bold text-white">FAI LA TUA SCELTA</h5>
             <h1 className="text-2xl xl:text-4xl font-bold text-white">

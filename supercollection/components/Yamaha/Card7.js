@@ -19,7 +19,7 @@ export default function ProssimiEventi() {
           {/* Card 1 */}
           <div className="bg-white overflow-hidden">
             <img 
-              src="/images/Prima Tappa.png"
+              src="/images/Yamaha/Prima Tappa.png"
               className="w-full h-64 object-cover"
             />
             <div className="p-6">
@@ -42,7 +42,7 @@ export default function ProssimiEventi() {
           {/* Card 2 */}
           <div className="bg-white overflow-hidden ">
             <img 
-              src="/images/STRAMILANO 2026.png"
+              src="/images/Yamaha/STRAMILANO 2026.png"
               className="w-full h-64 object-cover"
             />
             <div className="p-6">
@@ -64,7 +64,7 @@ export default function ProssimiEventi() {
           {/* Card 3 */}
           <div className="bg-white  overflow-hidden">
             <img 
-              src="/images/Prima Tappa.png"
+              src="/images/Yamaha/Prima Tappa.png"
               className="w-full h-64 object-cover"
             />
             <div className="p-6">

@@ -7,7 +7,7 @@ export default function Card5() {
           {/* Card 1 */}
           <div className="relative overflow-hidden w-full md:w-1/2 lg:w-full">
             <img 
-              src="/images/Card2:1.webp" 
+              src="/images/Yamaha/Card2:1.webp" 
               className="w-full h-full object-cover brightness-80"
             />
             <div className="absolute bottom-8 left-0 right-0 px-8 text-center lg:text-left lg:left-8 lg:right-auto text-white">
@@ -18,7 +18,7 @@ export default function Card5() {
           {/* Card 2 */}
           <div className="relative overflow-hidden w-full md:w-1/2 lg:w-full">
             <img 
-              src="/images/Card2:2.webp" 
+              src="/images/Yamaha/Card2:2.webp" 
               className="w-full h-full object-cover brightness-80"
             />
             <div className="absolute bottom-8 left-0 right-0 px-8 text-center lg:text-left lg:left-8 lg:right-auto text-white">
