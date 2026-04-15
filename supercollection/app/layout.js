@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Yamaha",
-  description: "Yamaha moto",
+  title: "Super Collection",
+  description: "",
 };
 
 export default function RootLayout({ children }) {
