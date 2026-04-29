@@ -10,20 +10,23 @@ export default function Card9() {
             DESTINATION YAMAHA MOTOR
           </h1>
           <p className="text-md text-gray-700 leading-relaxed font-bold">
-            Destination Yamaha Motor è una piattaforma di viaggio online rivolta a 
-            tutti coloro che hanno una passione per l'avventura e il desiderio di 
-            scoprire nuove ed emozionanti esperienze con i mezzi Yamaha.
+            Destination Yamaha Motor è una piattaforma di viaggio online rivolta
+            a tutti coloro che hanno una passione per l'avventura e il desiderio
+            di scoprire nuove ed emozionanti esperienze con i mezzi Yamaha.
           </p>
-          <button href="#" className="bg-black hover:bg-red-500 text-white hover:text-white border border-black font-semibold text-sm px-3 py-3 rounded-full flex items-center gap-3 transition-all duration-300">
+          <button
+            href="#"
+            className="bg-black hover:bg-red-500 text-white hover:text-white border border-black font-semibold text-sm px-3 py-3 rounded-full flex items-center gap-3 transition-all duration-300"
+          >
             Learn more
           </button>
-        </div>        
-        <div className="relative h-[450px] w-[750px] ">          
+        </div>
+        <div className="relative h-[450px] w-[750px] ">
           <img
             src="/images/Yamaha/Destination Yamaha.jpg"
             alt="Destination Yamaha Motor"
             className="absolute inset-0  object-cover"
-          />          
+          />
         </div>
       </div>
     </div>

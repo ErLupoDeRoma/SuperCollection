@@ -7,7 +7,7 @@ export default function Card4(C4) {
         </h1>
 
         <div className="relative max-w-6xl mx-auto">
-          <img 
+          <img
             src="/images/Yamaha/Test Ride.webp"
             className="w-full h-auto object-cover brightness-80"
           />
@@ -20,5 +20,5 @@ export default function Card4(C4) {
         </div>
       </div>
     </>
-  )
+  );
 }
